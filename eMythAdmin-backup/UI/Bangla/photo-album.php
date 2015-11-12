@@ -67,7 +67,8 @@
 										<label for="SelectImage">Select Image</label>
 										<input type="file"  id="SelectImage">
 										<i><small>Dimention Home Page: 240px X 140px (image must be smaller than 150) Dimention Slide: 480px X 306px (image must be smaller than 150)</small></i>
-										<input type="text" class="form-control" id="SelectImage" placeholder="Image caption">
+										<label for="ImageCaption">Image Caption</label>
+										<input type="text" class="form-control" id="ImageCaption">
 									</div>
 								</div>
 								<div class="row">	
