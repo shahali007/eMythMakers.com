@@ -113,6 +113,7 @@
 										</div>
 									</div>
 								</div>
+<<<<<<< HEAD
 								<div class="col-sm-3">
 									<div class="panel panel-primary">
 										<div class="panel-heading">
@@ -125,6 +126,15 @@
 											<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyk1QS_PRoYMSuUwX2d4kftw8jHgv_FS-7GM892-SfQaKYeg3f" alt="image" class="img-responsive">
 											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 										</div>
+=======
+								<div class="row">
+									<div class="col-sm-12">
+										<label for="SelectImage">Select Image</label>
+										<input type="file"  id="SelectImage">
+										<i><small>Dimention Home Page: 240px X 140px (image must be smaller than 150) Dimention Slide: 480px X 306px (image must be smaller than 150)</small></i>
+										<label for="ImageCaption">Image Caption</label>
+										<input type="text" class="form-control" id="ImageCaption">
+>>>>>>> origin/master
 									</div>
 								</div>
 								<div class="col-sm-3">
