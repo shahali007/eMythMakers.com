@@ -31,7 +31,6 @@
 			<!-- Tab panes -->
 			<div class="tab-content">
 				<div role="tabpanel" class="tab-pane active" id="ContentInsert1">
-    				
 					<div class="row">
 						<div class="col-sm-4 col-sm-offset-4">
 							<h3>Content - Insert (Bangla)</h3>

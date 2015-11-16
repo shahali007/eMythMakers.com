@@ -32,14 +32,9 @@
 		<div class="container">
 			 <div class="row">
 				 <div class="col-sm-12 ">
-					<div class="info">
-					</div>
-					 <div class="login-form">
+					<div class="login-form">
 						<form action="">
 							<h3 class='text-center'>eMythMakers.com</h3>
-							<!--<div class="admin-img">
-								<img src="" alt="" />
-							</div>-->
 							<div class="form-group  has-feedback">
 								<input type="text" class="form-control" id=""placeholder="Username">
 								<i class="fa fa-user form-control-feedback"></i>
@@ -50,7 +45,7 @@
 							</div>
 							<button type="submit" class="btn btn-block">LogIn</button>
 						</form>
-					 </div>
+					</div>
 					<a href="" class="forgot">Forgot Password?</a>
 				 </div>   
 			 </div>   
@@ -62,7 +57,7 @@
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	-->
-    <script src="js/jquery-2.1.4.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="http://localhost:9000/eMythAdmin-backup/UI/common/js/jquery-2.1.4.min.js"></script>
+    <script src="http://localhost:9000/eMythAdmin-backup/UI/common/js/bootstrap.min.js"></script>
   </body>
 </html>

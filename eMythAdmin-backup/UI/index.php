@@ -15,18 +15,7 @@
     <link href="http://localhost:9000/eMythAdmin-backup/UI/common/css/eMythMakers.css" rel="stylesheet">
 </head>
 <body>
-<!-- facebook like script 
-	<div id="fb-root"></div>
-	<script>
-	(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-	fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-	</script>
--->
+
 	<!-- start header -->
 	<?php include_once("common/header.php"); ?>
 	<div class="main">
@@ -36,11 +25,7 @@
 				<div class="col-sm-10 col-xs-12 main-details">
 					<div class="row">
 						<div class="col-sm-12 text-center"><h3>Welcome to Dashbord</h3>
-							<!-- start facebook like box html
 							
-							<div class="fb-page" data-href="https://www.facebook.com/jagonews24" data-height="450" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/jagonews24/"><a href="https://www.facebook.com/jagonews24/">gonews24.com</a></blockquote></div></div>
-							
-							 end facebook like box-->
 						</div>
 					</div>
 				</div>
